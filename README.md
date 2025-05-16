@@ -25,7 +25,7 @@
 
 ## ⚙️Использование
 
-1. Загрузите архив (zip/rar) со [страницы последнего релиза](https://github.com/Flowseal/zapret-discord-youtube/releases/latest)
+1. Загрузите архив (zip/rar) со [страницы последнего релиза](https://github.com/phychopatch/3APRET-OT-BMT/releases/latest)
 
 2. Распакуйте содержимое архива по пути, который не содержит кириллицу/спец. символы
 
